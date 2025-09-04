@@ -43,4 +43,4 @@ All sub-activities apply a combination of Shallow Learning and Deep Learning app
 
 
 ## 👥 Research Team
-This project is developed by IP UGM – WP 1.6 Team in support of Indonesia’s FOLU Net Sink 2030 target.
+This project is developed by IP UGM – WP 1.6 Team in Indonesia’s FOLU Net Sink 2030.
