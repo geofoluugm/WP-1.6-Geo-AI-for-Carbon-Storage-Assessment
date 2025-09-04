@@ -3,7 +3,7 @@
 ## 📌 Project Description
 
 This project is part of Indonesia’s FOLU Net Sink 2030 – IP UGM WP 2.6, focusing on Geo-AI Development and Use-case for Carbon Storage Assessment.
-We develop a Geo-AI modeling system to support carbon stock assessment, following the IPCC Tier 2 and Tier 3 standards (medium- and detail-scale).
+We develop a Geo-AI modeling system to support carbon stock assessment, following the IPCC Tier 2 and Tier 3 standards (medium and detail scale).
 
 The study area is located in Sepaku Watershed, East Kalimantan, with a specific focus on Wanagama Forest in IKN (Nusantara Capital City).
 
@@ -13,26 +13,32 @@ The study area is located in Sepaku Watershed, East Kalimantan, with a specific 
 - Integrate remote sensing data (LiDAR, Sentinel, PlanetScope) with field forest inventory.
 - Produce models using shallow learning and deep learning for carbon stock analysis.
 
-## 🧩 Sub-Activities
-This project consists of four main sub-activities:
+## 📊 Dataset Modelling Summary
+| Product| Scale  |  Primary Dataset  |	Additional Data Integration |             Methods               | 
+|--------|--------|-------------------|-----------------------------|-----------------------------------|
+|  AGB   | Detail |	   UAV LiDAR	    |   Forest inventory data     | Shallow Learning & Deep Learning  |
+|  AGB	 | Medium |	   LiDAR GEDI	    |   Sentinel-1 & Sentinel-2   | Shallow Learning & Deep Learning  |
+|  LULC	 | Detail |	   PlanetScope	  |             -               | Shallow Learning & Deep Learning  |
+|  LULC	 | Medium |	Open Sentinel Map	|             -               | Shallow Learning & Deep Learning  |
 
-**1. Detail-scale AGB modeling**
-- Data: UAV LiDAR + Forest Inventory
-- Method: Shallow Learning & Deep Learning /n
-**2. Medium-scale AGB modeling**
-- Data: LiDAR GEDI + Sentinel-1 + Sentinel-2
-- Method: Shallow Learning & Deep Learning /n
-**3. Detail-scale LULC modeling**
-- Data: PlanetScope
-- Method: Shallow Learning & Deep Learning /n
-**4. Medium-scale LULC modeling**
-- Data: Benchmark Open Sentinel Map
-- Method: Shallow Learning & Deep Learning
+## 🛠️ Methodology
+All sub-activities apply a combination of Shallow Learning and Deep Learning approaches, including:
+- Shallow learning algorithms (e.g., Random Forest, SVM, etc.).
+- Deep learning architectures (e.g., CNN, U-Net, or other variations depending on the product).
 
-## 📊 Dataset Summary
-| Product| Scale  |  Primary Dataset  |	Additional Data Integration |
-|--------|--------|-------------------|-----------------------------|
-|  AGB   | Detail |	   UAV LiDAR	    |   Forest inventory data     |
-|  AGB	 | Medium |	   LiDAR GEDI	    |   Sentinel-1 & Sentinel-2   |
-|  LULC	 | Detail |	   PlanetScope	  |             -               |
-|  LULC	 | Medium |	Open Sentinel Map	|             -               |
+*Note: Detailed dataset metadata and methodology will be provided in each product folder. 
+
+## 📈 Outputs
+- Trained models in .pth and .joblib formats.
+- Model performance evaluation (accuracy, confusion matrix, etc.).
+- Spatial prediction products (Inference).
+
+## License
+- This dataset is made available under the MIT license, freely available for both academic and commercial use. See the [LICENSE](./LICENSE) file for details.
+- Access to Sentinel data is free, full and open for the broad Regional, National, European and International user community. View [Terms and Conditions](https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/TermsConditions).
+- Access to Planet data is restricted. View [Terms of Use](https://www.planet.com/terms-of-use/).
+- The EULA for Pleiades imagery includes restrictions on how the imagery can be used. View [Terms and Conditions](https://space-solutions.airbus.com/legal/terms-and-conditions/)
+
+
+## 👥 Research Team
+This project is developed by IP UGM – WP 1.6 Team in support of Indonesia’s FOLU Net Sink 2030 target.
