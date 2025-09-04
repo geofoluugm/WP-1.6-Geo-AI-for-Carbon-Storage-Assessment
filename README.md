@@ -18,13 +18,13 @@ This project consists of four main sub-activities:
 
 **1. Detail-scale AGB modeling**
 - Data: UAV LiDAR + Forest Inventory
-- Method: Shallow Learning & Deep Learning
+- Method: Shallow Learning & Deep Learning /n
 **2. Medium-scale AGB modeling**
 - Data: LiDAR GEDI + Sentinel-1 + Sentinel-2
-- Method: Shallow Learning & Deep Learning
+- Method: Shallow Learning & Deep Learning /n
 **3. Detail-scale LULC modeling**
 - Data: PlanetScope
-- Method: Shallow Learning & Deep Learning
+- Method: Shallow Learning & Deep Learning /n
 **4. Medium-scale LULC modeling**
 - Data: Benchmark Open Sentinel Map
 - Method: Shallow Learning & Deep Learning
