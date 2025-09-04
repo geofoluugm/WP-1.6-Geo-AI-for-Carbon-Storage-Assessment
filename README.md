@@ -34,10 +34,12 @@ All sub-activities apply a combination of Shallow Learning and Deep Learning app
 - Spatial prediction products (Inference).
 
 ## License
-- This dataset is made available under the MIT license, freely available for both academic and commercial use. See the [LICENSE](./LICENSE) file for details.
+- This dataset is made available under the Apache license. Freely available for both academic and commercial use, but protected by intellectual property rights. See the [LICENSE](./LICENSE) file for details.
 - Access to Sentinel data is free, full and open for the broad Regional, National, European and International user community. View [Terms and Conditions](https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/TermsConditions).
 - Access to Planet data is restricted. View [Terms of Use](https://www.planet.com/terms-of-use/).
 - The EULA for Pleiades imagery includes restrictions on how the imagery can be used. View [Terms and Conditions](https://space-solutions.airbus.com/legal/terms-and-conditions/)
+- Access to GEDI LiDAR data is free. View [Terms and Conditions](https://gedi.umd.edu/data/products/)
+- Access to Open Sentinel Map is free. This benchmark data was developed by Johnson (2022). View [Metadata](https://github.com/VisionSystemsInc/open-sentinel-map)
 
 
 ## 👥 Research Team
