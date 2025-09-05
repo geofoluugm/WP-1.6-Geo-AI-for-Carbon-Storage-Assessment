@@ -1,19 +1,19 @@
 # Indonesia’s FOLU Net Sink 2030 – WP 1.6: Geo-AI for Carbon Storage Assessment
 
-## 📌 Project Description
+## Project Description
 
 This project is part of Indonesia’s FOLU Net Sink 2030 – IP UGM WP 2.6, focusing on Geo-AI Development and Use-case for Carbon Storage Assessment.
 We develop a Geo-AI modeling system to support carbon stock assessment, following the IPCC Tier 2 and Tier 3 standards (medium and detail scale).
 
 The study area is located in Sepaku Watershed, East Kalimantan, with a specific focus on Wanagama Forest in IKN (Nusantara Capital City).
 
-## 🎯 Objectives
+## Objectives
 
 - Develop models for Above Ground Biomass (AGB) and Land Use/Land Cover (LULC) at both medium and detail scales.
 - Integrate remote sensing data (LiDAR, Sentinel, PlanetScope) with field forest inventory.
 - Produce models using shallow learning and deep learning for carbon stock analysis.
 
-## 📊 Dataset Modelling Summary
+## Dataset Modelling Summary
 | Product| Scale  |  Primary Dataset  |	Additional Data Integration |             Methods               | 
 |--------|--------|-------------------|-----------------------------|-----------------------------------|
 |  AGB   | Detail |	   UAV LiDAR	    |   Forest inventory data     | Shallow Learning & Deep Learning  |
@@ -21,14 +21,14 @@ The study area is located in Sepaku Watershed, East Kalimantan, with a specific 
 |  LULC	 | Detail |	   PlanetScope	  |             -               | Shallow Learning & Deep Learning  |
 |  LULC	 | Medium |	Open Sentinel Map	|             -               | Shallow Learning & Deep Learning  |
 
-## 🛠️ Methodology
+## Methodology
 All sub-activities apply a combination of Shallow Learning and Deep Learning approaches, including:
 - Shallow learning algorithms (e.g., Random Forest, SVM, etc.).
 - Deep learning architectures (e.g., CNN, U-Net, or other variations depending on the product).
 
 *Note: Detailed dataset metadata and methodology will be provided in each product folder. 
 
-## 📈 Outputs
+## Outputs
 - Trained models in .pth and .joblib formats.
 - Model performance evaluation (accuracy, confusion matrix, etc.).
 - Spatial prediction products (Inference).
