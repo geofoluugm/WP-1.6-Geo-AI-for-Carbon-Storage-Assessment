@@ -42,5 +42,5 @@ All sub-activities apply a combination of Shallow Learning and Deep Learning app
 - Access to Open Sentinel Map is free. This benchmark data was developed by Johnson (2022). View [Metadata](https://github.com/VisionSystemsInc/open-sentinel-map)
 
 
-## 👥 Research Team
+## Research Team
 This project is developed by IP UGM – WP 1.6 Team in Indonesia’s FOLU Net Sink 2030.
