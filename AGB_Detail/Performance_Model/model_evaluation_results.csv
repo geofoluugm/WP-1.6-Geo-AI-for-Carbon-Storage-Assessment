@@ -1,0 +1,8 @@
+Model,Best Parameters,R^2 Score (Train),R^2 Score (Test),Mean Absolute Error (MAE),Mean Squared Error (MSE),Root Mean Squared Error (RMSE)
+RandomForest,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 300, 'random_state': 42}",0.30782702622749963,0.3063913311703137,29.76546408699569,1737.199870437668,41.679729730861595
+GradientBoosting,"{'learning_rate': 0.2, 'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 300, 'random_state': 42}",0.26237002221178796,0.1134247314242246,32.514241679094276,2220.500565977297,47.12218761875659
+MLP,"{'activation': 'tanh', 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'max_iter': 200, 'random_state': 42, 'solver': 'sgd'}",0.033383845571479366,-0.00032460771699471813,42.195064096013354,2505.395126986623,50.05392219383635
+SVR,"{'C': 100, 'epsilon': 0.2, 'kernel': 'rbf'}",0.16925700240344546,0.15915380169036264,36.564492287401094,2105.9683542106695,45.890830829378864
+XGBoost,"{'colsample_bytree': 0.8, 'learning_rate': 0.2, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 300, 'random_state': 42, 'subsample': 1.0}",0.29702678251283693,0.1652099264999236,32.49851318628557,2090.800292294323,45.72526973451685
+LightGBM,"{'colsample_bytree': 0.8, 'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 300, 'num_leaves': 31, 'random_state': 42, 'subsample': 0.8}",0.26641629318432064,0.26028501697556217,30.860759383220728,1852.6769206028935,43.0427336562502
+Lasso,"{'alpha': 10, 'max_iter': 1000, 'random_state': 42}",0.14110007291478208,0.31205989612504126,30.610065679532823,1723.002484004284,41.509065082271896
