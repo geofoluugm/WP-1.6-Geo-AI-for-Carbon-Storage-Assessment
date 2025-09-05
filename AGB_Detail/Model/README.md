@@ -1,1 +1,1 @@
-
+There are several models that we cannot upload due to storage access limitations, such as the CNN-1D and CNN-1D attention models. The complete list can be downloaded at the following link: [GDrive](https://drive.google.com/file/d/10mAUjfoWXDWWIodcx659nO18oWMRPBh7/view?usp=drive_link)
