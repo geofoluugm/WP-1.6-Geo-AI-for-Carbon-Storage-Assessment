@@ -29,3 +29,5 @@ The AGB medium scale model learning process is based on machine learning regress
 
 ## Performance 
 - The evaluation of various **shallow learning models** is illustrated by the differences in model performance in predictive performance. The differences in performance can be seen in the following graph:
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/0289091e-abe4-4337-af53-c89b2b6eb06d" /> 
+
