@@ -16,6 +16,9 @@ The modeling integrates **UAV LiDAR data** with **forest inventory measurements*
 
 The dataset was processed to produce the final dataset. We extracted Sentinel-1 and Sentinel-2 pixel values with overlap in the GEDI coverage area. Then, we filtered the data and combined everything into a [.csv file](https://drive.google.com/file/d/1540Cgf7UT0HkAtD7fqEGvy2O0HcgkjeI/view?usp=drive_link)
 
+Preview coverage area of the footprint GEDI LiDAR:
+
+
 ## Methods  
 The AGB medium scale model learning process is based on machine learning regression. We tried several regression algorithms classified as shallow learning and deep learning. The details are as follows:
 - **Shallow Learning** :
