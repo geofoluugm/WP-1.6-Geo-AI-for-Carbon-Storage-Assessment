@@ -26,7 +26,7 @@ All sub-activities apply a combination of Shallow Learning and Deep Learning app
 - Shallow learning algorithms (e.g., Random Forest, SVM, etc.).
 - Deep learning architectures (e.g., CNN, U-Net, or other variations depending on the product).
 
-*Note: Detailed dataset metadata and methodology will be provided in each product folder. 
+***Note**: Detailed dataset metadata and methodology will be provided in each product folder. 
 
 ## Outputs
 - Trained models in .pth and .joblib formats.
