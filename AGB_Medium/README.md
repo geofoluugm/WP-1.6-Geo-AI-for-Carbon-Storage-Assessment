@@ -18,6 +18,7 @@ The dataset was processed to produce the final dataset. We extracted Sentinel-1 
 
 Preview coverage area of the footprint GEDI LiDAR:
 
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/4a75f224-4982-4f6b-8913-1a684f037051" />
 
 ## Methods  
 The AGB medium scale model learning process is based on machine learning regression. We tried several regression algorithms classified as shallow learning and deep learning. The details are as follows:
