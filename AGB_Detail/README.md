@@ -33,5 +33,9 @@ The AGB LiDAR model learning process is based on machine learning regression. We
   - CNN-2D-attention-LSTM  
 
 ## Performance 
+The evaluation of various **shallow learning models** is illustrated by the differences in model performance in predictive performance. The differences in performance can be seen in the following graph:
+<img width="3580" height="1979" alt="Image" src="https://github.com/user-attachments/assets/b28d794d-bac8-4e30-8506-0c8f995b2333" />
+**Note**: MAE and RMSE in Kg/Tree
 
+The evaluation of various **Deep learning models** is illustrated by the differences in model performance in predictive performance. The differences in performance can be seen in the following graph:
 
