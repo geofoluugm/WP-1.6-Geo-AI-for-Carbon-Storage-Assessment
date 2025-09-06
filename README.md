@@ -41,6 +41,11 @@ All sub-activities apply a combination of Shallow Learning and Deep Learning app
 - Access to GEDI LiDAR data is free. View [Terms and Conditions](https://gedi.umd.edu/data/products/)
 - Access to Open Sentinel Map is free. This benchmark data was developed by Johnson (2022). View [Metadata](https://github.com/VisionSystemsInc/open-sentinel-map)
 
+## Publication 
+We are currently writing an article titled **“Comparison of Shallow and Deep Learning Algorithms for Aboveground Biomass Estimation Using LiDAR: Case Study of Eucalyptus Forest in Ibu Kota Nusantara, East Kalimantan Province, Indonesia”** (Under review). We will share the citation for this article once it has been published.
 
 ## Research Team
-This project is developed by IP UGM – WP 1.6 Team in Indonesia’s FOLU Net Sink 2030.
+This project is developed by IP UGM – WP 1.6 Team in Indonesia’s FOLU Net Sink 2030. The authors for this project are: Sanjiwana Arjasakusuma, Projo Danoedoro, Danang Sri Hadmoko, Marzuki, Muhammad Arrafi, Yanuar Vira Febiyanti, Putri Laila Kartika Ningrum, Nur Laila Eka Utami, Aning Andita, Francisca Nova Puspatiyaningrum, and Ariseto Basworo from Department of Geographic Information Science, Faculty of Geography, Universitas Gadjah Mada.
+
+## Acknowledge
+The authors also would like to acknowledge the funding given under the scheme of FOLU NET SINK 2030 that has been granted to the Faculty of Geography, Universitas Gadjah Mada.
