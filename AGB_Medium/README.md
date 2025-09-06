@@ -36,3 +36,7 @@ The AGB medium scale model learning process is based on machine learning regress
 
 <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/0289091e-abe4-4337-af53-c89b2b6eb06d" /> <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/ee4a9a7c-115a-4c31-bc0d-69e136e2c908" />
 
+## Results
+We tried applying the best model to the new data. These results illustrate the upscaling of AGB in GEDI LiDAR level 4a to a wider area.
+
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/4f3334d9-c688-4eb9-b610-fd44a892fb13" />
