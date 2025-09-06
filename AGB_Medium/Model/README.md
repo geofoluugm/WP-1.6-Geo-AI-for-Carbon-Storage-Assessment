@@ -1,1 +1,1 @@
-
+There is a model that we can't upload due to restricted access. It is random forest model. You can download it in [GDrive](https://drive.google.com/file/d/1mD-CbsLiN0iI_DgOHDtXDIHztb1faqSO/view?usp=drive_link)
