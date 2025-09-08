@@ -41,3 +41,5 @@ Preview benchmark:
 
 
 ## Results
+We have tried applying the U-Net model to new data (inference).
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/c141db5c-b857-4f34-b557-5b8357cd6ccc" />
