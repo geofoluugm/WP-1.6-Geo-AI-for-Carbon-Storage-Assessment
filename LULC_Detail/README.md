@@ -31,3 +31,12 @@ Preview benchmark:
 ## 🛠️ Methods  
 - Shallow Learning (Random Forest, SVM, Gradient Boosting)  
 - Deep Learning (U-Net)
+
+## Performance 
+- The evaluation of various **shallow learning models** is illustrated by the differences in model performance in predictive performance. The differences in performance can be seen in the following graph:
+
+
+- The evaluation of various **Deep learning models** is illustrated by the differences in model performance in predictive performance. The differences in performance can be seen in the following graph:
+
+
+## Results
