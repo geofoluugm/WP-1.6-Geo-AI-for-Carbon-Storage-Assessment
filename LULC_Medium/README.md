@@ -25,7 +25,7 @@ We determined this to be in line with our objectives. Furthermore, the proportio
 
 ## Performance 
 - The evaluation of various **Shallow learning models** is illustrated by the differences in model performance in predictive performance. The model's performance evaluated by metrics: Accuracy, Recall, Precision, and F1-Score. The differences in performance can be seen in the following graph:
-
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/87c29c09-6d95-4cc0-8cf7-2a6d24740f32" />
 
 - The evaluation of various **Deep learning models** is illustrated by the differences in model performance in predictive performance. The model's performance evaluated by metrics: Accuracy, Loss, and Intersect over Union (IoU). The differences in performance can be seen in the following graph:
 
