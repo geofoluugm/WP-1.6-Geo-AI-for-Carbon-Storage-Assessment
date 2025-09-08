@@ -31,5 +31,6 @@ We determined this to be in line with our objectives. Furthermore, the proportio
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/3ad5b6b4-9748-4f4b-80d2-8b48348598c4" />
 
 ## Results
-We have tried applying the U-Net model to new data (inference).
-
+We have tried applying random forest and gradient boosting model to new data (inference).
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/68eb4ca7-49b0-4537-8f00-9a78bcd09e51" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/c2c0f2bd-4566-4b98-8c60-95da785e17c1" />
