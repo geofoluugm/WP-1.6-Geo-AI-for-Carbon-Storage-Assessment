@@ -24,6 +24,8 @@ We have created a data benchmark for land cover and land use. The benchmark cons
   - Swamp
   - Water Body   
 
+
+
 ## 🛠️ Methods  
 - Shallow Learning (Random Forest, SVM, Gradient Boosting)  
 - Deep Learning (U-Net)
