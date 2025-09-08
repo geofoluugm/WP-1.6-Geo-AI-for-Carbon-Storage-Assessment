@@ -25,10 +25,10 @@ We determined this to be in line with our objectives. Furthermore, the proportio
 
 ## Performance 
 - The evaluation of various **Shallow learning models** is illustrated by the differences in model performance in predictive performance. The model's performance evaluated by metrics: Accuracy, Recall, Precision, and F1-Score. The differences in performance can be seen in the following graph:
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/87c29c09-6d95-4cc0-8cf7-2a6d24740f32" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/87c29c09-6d95-4cc0-8cf7-2a6d24740f32" />
 
 - The evaluation of various **Deep learning models** is illustrated by the differences in model performance in predictive performance. The model's performance evaluated by metrics: Accuracy, Loss, and Intersect over Union (IoU). The differences in performance can be seen in the following graph:
-
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/3ad5b6b4-9748-4f4b-80d2-8b48348598c4" />
 
 ## Results
 We have tried applying the U-Net model to new data (inference).
