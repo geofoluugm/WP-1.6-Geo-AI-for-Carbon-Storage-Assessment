@@ -29,7 +29,7 @@ Preview benchmark:
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/6232fb6d-877f-4e8c-b4ec-0e70b3df87b8" />
 
 ## 🛠️ Methods  
-- Shallow Learning (Random Forest, SVM, Gradient Boosting)  
+- Shallow Learning (Random Forest, SVM, Gradient Boosting, Naive Bayes)  
 - Deep Learning (U-Net)
 
 ## Performance 
