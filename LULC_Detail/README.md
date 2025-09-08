@@ -33,10 +33,11 @@ Preview benchmark:
 - Deep Learning (U-Net)
 
 ## Performance 
-- The evaluation of various **shallow learning models** is illustrated by the differences in model performance in predictive performance. the performance evaluated by metrics: Accuracy, Recall, Precision, and F1-Score. The differences in performance can be seen in the following graph:
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/20212a39-4a52-4719-82aa-ca3998a0df10" />
+- The evaluation of various **Shallow learning models** is illustrated by the differences in model performance in predictive performance. The model's performance evaluated by metrics: Accuracy, Recall, Precision, and F1-Score. The differences in performance can be seen in the following graph:
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/20212a39-4a52-4719-82aa-ca3998a0df10" />
 
-- The evaluation of various **Deep learning models** is illustrated by the differences in model performance in predictive performance. The differences in performance can be seen in the following graph:
+- The evaluation of various **Deep learning models** is illustrated by the differences in model performance in predictive performance. The model's performance evaluated by metrics: Accuracy, Loss, and Intersect over Union (IoU). The differences in performance can be seen in the following graph:
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/77ec7ffc-f8d0-4a3a-83ce-bd595603191e" />
 
 
 ## Results
