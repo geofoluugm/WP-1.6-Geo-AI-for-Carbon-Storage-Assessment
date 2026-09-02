@@ -2,7 +2,7 @@
 
 ## Description  
 This folder contains scripts, models, and results for **Medium-scale AGB estimation**.  
-The modeling integrates **UAV LiDAR data** with **forest inventory measurements** to assess biomass at a medium scale.  
+The modeling integrates **LiDAR GEDI** with **Sentinel-1 & Sentinel-2** to assess biomass at a medium scale.  
 
 ## Dataset  
 - **Primary Data**: GEDI LiDAR
